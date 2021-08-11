@@ -1,0 +1,35 @@
+body {
+  background-image: url('images/background.png');
+  text-align: center;
+  background-repeat: repeat-y;
+  background-position: center;
+
+}
+h1 {
+font-family: 'Exo 2', sans-serif;
+font-size: 6rem;
+color: #fff;
+padding-top: 10%;
+}
+h2 {
+  font-family: 'Indie Flower', cursive;
+  color: #251e60;
+  font-weight: bold;
+  font-size: 3rem;
+  text-shadow: 1px 2px #fff;
+}
+.btn {
+  padding: 0 3%;
+margin: 1.5% 2.5%;
+font-size: 2.5rem;
+}
+.yeu {
+  background-image: url("images/yeu.png");
+  margin-top: 60%;
+  background-repeat: no-repeat;
+}
+.yeuImg {
+  position: absolute;
+  width: 60%;
+  text-align: center;
+}
